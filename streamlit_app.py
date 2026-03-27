@@ -7,8 +7,5 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-st.sidebar.title("Navigation")
-st.sidebar.write("Choose a page")
-
 st.title("Machine learning")
 st.write("Machine Learning Model")
